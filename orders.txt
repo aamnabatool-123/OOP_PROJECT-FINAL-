@@ -71,3 +71,19 @@ Delivered By: Rider Ahmed
 -----------------------------
 
 gwshgsdsjg
+-----------------------------
+Customer: sania, Contact: 567890, Type: Premium
+Time: Fri Jun 20 01:50:11 2025
+ - Zinger Burger x1
+Base Total: Rs. 350, Final Bill: Rs. 315
+Delivered By: Rider Ahmed
+-----------------------------
+
+-----------------------------
+Customer: safa, Contact: 6386254, Type: Regular
+Time: Fri Jun 20 02:26:47 2025
+ - Zinger Burger x1
+Base Total: Rs. 350, Final Bill: Rs. 400
+Delivered By: Rider Ahmed
+-----------------------------
+
