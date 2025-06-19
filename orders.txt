@@ -1,0 +1,64 @@
+-----------------------------
+Customer: fasiha qasim , Contact: 123456789
+Time: Sun Jun 15 17:58:43 2025
+ - Zinger Burger x1 = Rs.350
+Total: Rs. 350, Final Bill: Rs. 315
+Delivered by: Rider Ahmed
+-----------------------------
+
+-----------------------------
+Customer: fatima tehreem , Contact: 03123456
+Time: Sun Jun 15 18:00:03 2025
+ - Ice Cream x2 = Rs.200
+Total: Rs. 200, Final Bill: Rs. 180
+Delivered by: Rider Ahmed
+-----------------------------
+
+-----------------------------
+Customer: aamna batool, Contact: 123456789
+Time: Sun Jun 15 18:02:21 2025
+ - Zinger Burger x1 = Rs.350
+Total: Rs. 350, Final Bill: Rs. 315
+Delivered by: Rider Ahmed
+-----------------------------
+
+-----------------------------
+Customer: aamna batool, Contact: 03446516836
+Time: Sun Jun 15 18:03:16 2025
+ - Zinger Burger x1 = Rs.350
+Total: Rs. 350, Final Bill: Rs. 315
+Delivered by: Rider Ahmed
+-----------------------------
+
+-----------------------------
+Customer: aamna batool | Contact: 03446516836
+Time: Sun Jun 15 18:29:33 2025
+ - Zinger Burger x1 = Rs. 350
+Final Bill: Rs. 400
+Delivered by: Ahmed
+-----------------------------
+
+-----------------------------
+Customer: aamna batool, Contact: 03446516836, Type: Regular
+Time: Sun Jun 15 18:33:31 2025
+ - Zinger Burger x1
+Base Total: Rs. 350, Final Bill: Rs. 400
+Delivered By: Rider Ahmed
+-----------------------------
+
+-----------------------------
+Customer: fasiha qasim, Contact: 123456, Type: Premium
+Time: Sun Jun 15 18:34:15 2025
+ - Zinger Burger x1
+Base Total: Rs. 350, Final Bill: Rs. 315
+Delivered By: Rider Ahmed
+-----------------------------
+
+-----------------------------
+Customer: sara khan , Contact: 123456789, Type: Regular
+Time: Thu Jun 19 20:30:16 2025
+ - Zinger Burger x1
+Base Total: Rs. 350, Final Bill: Rs. 400
+Delivered By: Rider Ahmed
+-----------------------------
+
