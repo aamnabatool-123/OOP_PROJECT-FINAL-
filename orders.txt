@@ -85,4 +85,4 @@ Time: Fri Jun 20 02:26:47 2025
 Base Total: Rs. 350, Final Bill: Rs. 400
 Delivered By: Rider Ahmed
 -----------------------------
-
+new orders
