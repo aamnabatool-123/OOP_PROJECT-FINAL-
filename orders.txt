@@ -55,7 +55,7 @@ Delivered By: Rider Ahmed
 -----------------------------
 
 -----------------------------
-Customer: sara khan , Contact: 123456789, Type: Regular
+Customer: saraa khan , Contact: 123456789, Type: Regular
 Time: Thu Jun 19 20:30:16 2025
  - Zinger Burger x1
 Base Total: Rs. 350, Final Bill: Rs. 400
@@ -63,7 +63,7 @@ Delivered By: Rider Ahmed
 -----------------------------
 
 -----------------------------
-Customer: saba, Contact: 123456789, Type: Regular
+Customer: sabaa, Contact: 123456789, Type: Regular
 Time: Thu Jun 19 23:12:02 2025
  - Zinger Burger x1
 Base Total: Rs. 350, Final Bill: Rs. 400
