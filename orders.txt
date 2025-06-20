@@ -94,3 +94,12 @@ Base Total: Rs. 350, Final Bill: Rs. 315
 Delivered By: Rider Ahmed
 -----------------------------
 
+-----------------------------
+Customer: fatima tehreem , Contact: 64375365, Type: Premium
+Time: Fri Jun 20 11:02:50 2025
+ - Biryani x1
+ - Cold Drink x1
+Base Total: Rs. 330, Final Bill: Rs. 297
+Delivered By: Rider Ahmed
+-----------------------------
+
